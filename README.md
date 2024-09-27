@@ -9,7 +9,6 @@ Welcome to the Straights Card Game! This project is an implementation of the Str
 - [Usage](#usage)
 - [Rules](#rules)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -53,12 +52,9 @@ Follow the on-screen instructions to play the game.
 1. The game is played with a standard 52-card deck.
 2. Players take turns playing cards in a sequence.
 3. The goal is to be the first player to play all your cards.
-4. Detailed rules can be found [here](https://example.com/straights-rules).
+4. Detailed rules can be found [here](https://www.pagat.com/invented/straights.html#:~:text=Each%20player%20makes%20the%20longest,any%20straight%20with%20fewer%20cards.).
 
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
